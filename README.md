@@ -2,6 +2,8 @@
 
 A modern Next.js website for Buteos Systems, combining elements from two existing websites and implementing a new pricing structure.
 
+Visit the site: [buteossystems.com](https://buteossystems.com)
+
 ## Features
 
 - Modern, responsive design
